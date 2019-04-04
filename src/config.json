@@ -1,0 +1,13 @@
+{
+  "project_name": "test_1",
+  "repo_name": "test_1",
+  "author_name": "Francesco Battaglia",
+  "description": "a test ",
+  "open_source_license": "No license file",
+  "raw_data_directory": "/Volumes/FraSSD1/swr_disruption_edinburgh",
+  "preprocessed_data_directory": "/Volumes/FraSSD1/swr_disruption_edinburgh_pre",
+  "intermediate_data_directory": "/Volumes/FraSSD1/swr_disruption_edinburgh_interm",
+  "results_data_directory": "/Volumes/FraSSD1/swr_disruption_edinburgh_res",
+  "depth_directory_structure": "2",
+  "levels": "subject,session"
+}
