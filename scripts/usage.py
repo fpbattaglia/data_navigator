@@ -14,7 +14,7 @@ proj = dn.DataNavigator(project_dir, project_metadata)
 
 
 # loop over all session directories
-for fc in proj.iter(level='session', pattern=None): # no pattern (default) means iterate
+for fc in proj.iter(level='session', pattern=None): # no pattern (default) means iterate over directories
     print(fc.d)
 
 # act on single files

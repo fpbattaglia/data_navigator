@@ -4,10 +4,10 @@
   "author_name": "Francesco Battaglia",
   "description": "a test ",
   "open_source_license": "No license file",
-  "raw_data_directory": "/Volumes/FraSSD1/swr_disruption_edinburgh",
-  "preprocessed_data_directory": "/Volumes/FraSSD1/swr_disruption_edinburgh_pre",
-  "intermediate_data_directory": "/Volumes/FraSSD1/swr_disruption_edinburgh_interm",
-  "results_data_directory": "/Volumes/FraSSD1/swr_disruption_edinburgh_res",
+  "raw_data_directory": "/Users/fpbatta/src/batlab/data_navigator/data/raw",
+  "preprocessed_data_directory": "/Users/fpbatta/src/batlab/data_navigator/data/preprocessed",
+  "intermediate_data_directory": "/Users/fpbatta/src/batlab/data_navigator/data/intermediate",
+  "results_data_directory": "/Users/fpbatta/src/batlab/data_navigator/data/results",
   "depth_directory_structure": "2",
   "levels": "subject,session"
 }

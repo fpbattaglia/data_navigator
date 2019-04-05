@@ -1,1 +1,1 @@
-from data_navigator import *
+from .data_navigator import *
