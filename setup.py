@@ -3,7 +3,7 @@ from setuptools import setup
 setup(
     name='data_navigator',
     version='0.1',
-    packages=['src', 'src.analysis', 'src.preprocessing', 'src.visualization'],
+    packages=['data_navigator'],
     url='https://www.github.com/fpbattaglia/data_navigator',
     license='GPLv3',
     author='Francesco Battaglia ',
